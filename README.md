@@ -17,7 +17,7 @@
 
 </div>
 
-![头像](![887b9e5f14a83da0ab2c0cfc8a2c7d2](https://github.com/Kyozoyh/Kyozoyh/assets/144031274/f831f779-034c-43cc-8595-02beab8026b4)
+![头像](/壁纸.png)
 )
 
 ![Visitor Count](https://profile-counter.glitch.me/Kyozoyh/count.svg)
